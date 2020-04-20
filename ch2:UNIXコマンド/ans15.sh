@@ -3,7 +3,7 @@
 # 確認にはheadコマンドを用いよ．
 
 if [ $# -ne 1 ]; then
-    echo 'Need n, exp:"ans14.sh 3"'
+    echo 'Need n, exp:"ans15.sh 3"'
     exit 1
 fi
 

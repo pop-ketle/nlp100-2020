@@ -6,7 +6,7 @@ import sys
 import pandas as pd
 
 if not len(sys.argv)==2:
-    print('Need n, exp:"python ans14.py 3"')
+    print('Need n, exp:"python ans15.py 3"')
 else:
     n = int(sys.argv[1])
     df = pd.read_csv('./popular-names.txt', sep='\t', header=None)
